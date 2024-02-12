@@ -13,7 +13,7 @@ load_dotenv()
 client = OpenAI()
 
 # Set page configuration with an icon
-st.set_page_config(page_title="PersonaPilot-Chat", page_icon="🚀")
+st.set_page_config(page_title="PersonaPilot-Chat", page_icon="🚀", initial_sidebar_state="expanded")
 
 @st.cache_resource
 def get_vectorstore():
