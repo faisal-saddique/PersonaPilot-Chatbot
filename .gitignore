@@ -5,6 +5,7 @@ __pycache__/
 
 # Jupyter Notebooks
 *.ipynb
+test.ipynb
 
 # C extensions
 *.so

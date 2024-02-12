@@ -1,0 +1,506 @@
+{
+  "personas": [
+    {
+      "name": "Emma",
+      "age": 32,
+      "occupation": "Graphic Designer",
+      "origin": "Netherlands",
+      "currentLocation": "London",
+      "languageSkills": {
+        "spoken": "Intermediate English",
+        "reading": "Basic"
+      },
+      "description": "Emma, a 32-year-old graphic designer originally from the Netherlands, currently resides in London. Intermediate English speaker with basic reading skills."
+    },
+    {
+      "name": "Margaret",
+      "age": 63,
+      "occupation": "Home Maker",
+      "origin": "Edinburgh",
+      "languageSkills": {
+        "spoken": "Native English"
+      },
+      "description": "Margaret, a 63-year-old homemaker from Edinburgh. Native English speaker."
+    },
+    {
+      "name": "Raj",
+      "age": 28,
+      "occupation": "Software Engineer",
+      "origin": "India",
+      "currentLocation": "San Francisco",
+      "languageSkills": {
+        "spoken": "Fluent English, Hindi",
+        "reading": "Advanced"
+      },
+      "description": "Raj, a 28-year-old software engineer from India, currently based in San Francisco. Fluent in English and Hindi, with advanced reading skills."
+    },
+    {
+      "name": "Sofia",
+      "age": 45,
+      "occupation": "Chef",
+      "origin": "Italy",
+      "currentLocation": "New York",
+      "languageSkills": {
+        "spoken": "Fluent Italian, English",
+        "reading": "Basic"
+      },
+      "description": "Sofia, a 45-year-old chef from Italy, now calling New York home. Fluent in Italian and English with basic reading skills."
+    },
+    {
+      "name": "Ahmed",
+      "age": 38,
+      "occupation": "Architect",
+      "origin": "Egypt",
+      "currentLocation": "Dubai",
+      "languageSkills": {
+        "spoken": "Fluent Arabic, English",
+        "reading": "Advanced"
+      },
+      "description": "Ahmed, a 38-year-old architect from Egypt, currently working in Dubai. Fluent in Arabic and English with advanced reading skills."
+    },
+    {
+      "name": "Ling",
+      "age": 25,
+      "occupation": "Fashion Designer",
+      "origin": "China",
+      "currentLocation": "Paris",
+      "languageSkills": {
+        "spoken": "Fluent Mandarin, English",
+        "reading": "Intermediate"
+      },
+      "description": "Ling, a 25-year-old fashion designer from China, currently based in Paris. Fluent in Mandarin and English with intermediate reading skills."
+    },
+    {
+      "name": "Carlos",
+      "age": 40,
+      "occupation": "Financial Analyst",
+      "origin": "Mexico",
+      "currentLocation": "Toronto",
+      "languageSkills": {
+        "spoken": "Fluent Spanish, English",
+        "reading": "Advanced"
+      },
+      "description": "Carlos, a 40-year-old financial analyst from Mexico, currently residing in Toronto. Fluent in Spanish and English with advanced reading skills."
+    },
+    {
+      "name": "Aisha",
+      "age": 30,
+      "occupation": "Doctor",
+      "origin": "Nigeria",
+      "currentLocation": "Sydney",
+      "languageSkills": {
+        "spoken": "Fluent Yoruba, English",
+        "reading": "Basic"
+      },
+      "description": "Aisha, a 30-year-old doctor from Nigeria, currently practicing in Sydney. Fluent in Yoruba and English with basic reading skills."
+    },
+    {
+      "name": "Andreas",
+      "age": 35,
+      "occupation": "Marketing Manager",
+      "origin": "Germany",
+      "currentLocation": "Tokyo",
+      "languageSkills": {
+        "spoken": "Fluent German, English",
+        "reading": "Intermediate"
+      },
+      "description": "Andreas, a 35-year-old marketing manager from Germany, currently based in Tokyo. Fluent in German and English with intermediate reading skills."
+    },
+    {
+      "name": "Yuki",
+      "age": 27,
+      "occupation": "Animator",
+      "origin": "Japan",
+      "currentLocation": "Los Angeles",
+      "languageSkills": {
+        "spoken": "Fluent Japanese, English",
+        "reading": "Advanced"
+      },
+      "description": "Yuki, a 27-year-old animator from Japan, currently working in Los Angeles. Fluent in Japanese and English with advanced reading skills."
+    },
+    {
+      "name": "Isabella",
+      "age": 22,
+      "occupation": "Student",
+      "origin": "Brazil",
+      "currentLocation": "Rio de Janeiro",
+      "languageSkills": {
+        "spoken": "Fluent Portuguese, English",
+        "reading": "Basic"
+      },
+      "description": "Isabella, a 22-year-old student from Brazil, currently studying in Rio de Janeiro. Fluent in Portuguese and English with basic reading skills."
+    },
+    {
+      "name": "Khaled",
+      "age": 33,
+      "occupation": "Journalist",
+      "origin": "Lebanon",
+      "currentLocation": "Beirut",
+      "languageSkills": {
+        "spoken": "Fluent Arabic, English, French",
+        "reading": "Advanced"
+      },
+      "description": "Khaled, a 33-year-old journalist from Lebanon, currently reporting from Beirut. Fluent in Arabic, English, and French with advanced reading skills."
+    },
+    {
+      "name": "Mia",
+      "age": 29,
+      "occupation": "Event Planner",
+      "origin": "Australia",
+      "currentLocation": "Melbourne",
+      "languageSkills": {
+        "spoken": "Fluent English",
+        "reading": "Intermediate"
+      },
+      "description": "Mia, a 29-year-old event planner from Australia, currently organizing events in Melbourne. Fluent in English with intermediate reading skills."
+    },
+    {
+      "name": "Ibrahim",
+      "age": 42,
+      "occupation": "Entrepreneur",
+      "origin": "Turkey",
+      "currentLocation": "Istanbul",
+      "languageSkills": {
+        "spoken": "Fluent Turkish, English",
+        "reading": "Advanced"
+      },
+      "description": "Ibrahim, a 42-year-old entrepreneur from Turkey, currently leading ventures in Istanbul. Fluent in Turkish and English with advanced reading skills."
+    },
+    {
+      "name": "Ananya",
+      "age": 26,
+      "occupation": "Graphic Designer",
+      "origin": "India",
+      "currentLocation": "Bangalore",
+      "languageSkills": {
+        "spoken": "Fluent English, Hindi",
+        "reading": "Intermediate"
+      },
+      "description": "Ananya, a 26-year-old graphic designer from India, currently working in Bangalore. Fluent in English and Hindi with intermediate reading skills."
+    },
+    {
+      "name": "Javier",
+      "age": 37,
+      "occupation": "Civil Engineer",
+      "origin": "Spain",
+      "currentLocation": "Barcelona",
+      "languageSkills": {
+        "spoken": "Fluent Spanish, English",
+        "reading": "Advanced"
+      },
+      "description": "Javier, a 37-year-old civil engineer from Spain, currently based in Barcelona. Fluent in Spanish and English with advanced reading skills."
+    },
+    {
+      "name": "Lila",
+      "age": 31,
+      "occupation": "Artist",
+      "origin": "Morocco",
+      "currentLocation": "Casablanca",
+      "languageSkills": {
+        "spoken": "Fluent Arabic, French, English",
+        "reading": "Advanced"
+      },
+      "description": "Lila, a 31-year-old artist from Morocco, currently creating in Casablanca. Fluent in Arabic, French, and English with advanced reading skills."
+    },
+    {
+      "name": "Ryan",
+      "age": 34,
+      "occupation": "Tech Startup Founder",
+      "origin": "United States",
+      "currentLocation": "San Francisco",
+      "languageSkills": {
+        "spoken": "Fluent English",
+        "reading": "Advanced"
+      },
+      "description": "Ryan, a 34-year-old tech startup founder from the United States, currently leading innovations in San Francisco. Fluent in English with advanced reading skills."
+    },
+    {
+      "name": "Nina",
+      "age": 39,
+      "occupation": "Psychologist",
+      "origin": "Sweden",
+      "currentLocation": "Stockholm",
+      "languageSkills": {
+        "spoken": "Fluent Swedish, English",
+        "reading": "Intermediate"
+      },
+      "description": "Nina, a 39-year-old psychologist from Sweden, currently practicing in Stockholm. Fluent in Swedish and English with intermediate reading skills."
+    },
+    {
+      "name": "Ravi",
+      "age": 36,
+      "occupation": "IT Consultant",
+      "origin": "India",
+      "currentLocation": "Mumbai",
+      "languageSkills": {
+        "spoken": "Fluent English, Hindi",
+        "reading": "Advanced"
+      },
+      "description": "Ravi, a 36-year-old IT consultant from India, currently working in Mumbai. Fluent in English and Hindi with advanced reading skills."
+    },
+    {
+      "name": "Camila",
+      "age": 23,
+      "occupation": "Student",
+      "origin": "Colombia",
+      "currentLocation": "Bogotá",
+      "languageSkills": {
+        "spoken": "Fluent Spanish, English",
+        "reading": "Basic"
+      },
+      "description": "Camila, a 23-year-old student from Colombia, currently studying in Bogotá. Fluent in Spanish and English with basic reading skills."
+    },
+    {
+      "name": "Hamza",
+      "age": 29,
+      "occupation": "Journalist",
+      "origin": "Pakistan",
+      "currentLocation": "Karachi",
+      "languageSkills": {
+        "spoken": "Fluent Urdu, English",
+        "reading": "Intermediate"
+      },
+      "description": "Hamza, a 29-year-old journalist from Pakistan, currently reporting from Karachi. Fluent in Urdu and English with intermediate reading skills."
+    },
+    {
+      "name": "Elena",
+      "age": 33,
+      "occupation": "Fashion Stylist",
+      "origin": "Russia",
+      "currentLocation": "Moscow",
+      "languageSkills": {
+        "spoken": "Fluent Russian, English",
+        "reading": "Intermediate"
+      },
+      "description": "Elena, a 33-year-old fashion stylist from Russia, currently styling in Moscow. Fluent in Russian and English with intermediate reading skills."
+    },
+    {
+      "name": "Diego",
+      "age": 41,
+      "occupation": "Architect",
+      "origin": "Argentina",
+      "currentLocation": "Buenos Aires",
+      "languageSkills": {
+        "spoken": "Fluent Spanish, English",
+        "reading": "Advanced"
+      },
+      "description": "Diego, a 41-year-old architect from Argentina, currently designing in Buenos Aires. Fluent in Spanish and English with advanced reading skills."
+    },
+    {
+      "name": "Priya",
+      "age": 27,
+      "occupation": "Social Media Manager",
+      "origin": "India",
+      "currentLocation": "Delhi",
+      "languageSkills": {
+        "spoken": "Fluent English, Hindi",
+        "reading": "Intermediate"
+      },
+      "description": "Priya, a 27-year-old social media manager from India, currently managing online presence in Delhi. Fluent in English and Hindi with intermediate reading skills."
+    },
+    {
+      "name": "Omar",
+      "age": 35,
+      "occupation": "Finance Analyst",
+      "origin": "Saudi Arabia",
+      "currentLocation": "Riyadh",
+      "languageSkills": {
+        "spoken": "Fluent Arabic, English",
+        "reading": "Advanced"
+      },
+      "description": "Omar, a 35-year-old finance analyst from Saudi Arabia, currently analyzing finances in Riyadh. Fluent in Arabic and English with advanced reading skills."
+    },
+    {
+      "name": "Maya",
+      "age": 28,
+      "occupation": "Biomedical Researcher",
+      "origin": "Canada",
+      "currentLocation": "Vancouver",
+      "languageSkills": {
+        "spoken": "Fluent English, French",
+        "reading": "Intermediate"
+      },
+      "description": "Maya, a 28-year-old biomedical researcher from Canada, currently conducting research in Vancouver. Fluent in English and French with intermediate reading skills."
+    },
+    {
+      "name": "Jin",
+      "age": 30,
+      "occupation": "Video Game Developer",
+      "origin": "South Korea",
+      "currentLocation": "Seoul",
+      "languageSkills": {
+        "spoken": "Fluent Korean, English",
+        "reading": "Intermediate"
+      },
+      "description": "Jin, a 30-year-old video game developer from South Korea, currently creating games in Seoul. Fluent in Korean and English with intermediate reading skills."
+    },
+    {
+      "name": "Carmen",
+      "age": 39,
+      "occupation": "Interior Designer",
+      "origin": "Mexico",
+      "currentLocation": "Mexico City",
+      "languageSkills": {
+        "spoken": "Fluent Spanish, English",
+        "reading": "Advanced"
+      },
+      "description": "Carmen, a 39-year-old interior designer from Mexico, currently designing spaces in Mexico City. Fluent in Spanish and English with advanced reading skills."
+    },
+    {
+      "name": "Arun",
+      "age": 32,
+      "occupation": "Product Manager",
+      "origin": "India",
+      "currentLocation": "Bangalore",
+      "languageSkills": {
+        "spoken": "Fluent English, Hindi",
+        "reading": "Advanced"
+      },
+      "description": "Arun, a 32-year-old product manager from India, currently managing products in Bangalore. Fluent in English and Hindi with advanced reading skills."
+    },
+    {
+      "name": "Lucia",
+      "age": 36,
+      "occupation": "Writer",
+      "origin": "Chile",
+      "currentLocation": "Santiago",
+      "languageSkills": {
+        "spoken": "Fluent Spanish, English",
+        "reading": "Advanced"
+      },
+      "description": "Lucia, a 36-year-old writer from Chile, currently penning down stories in Santiago. Fluent in Spanish and English with advanced reading skills."
+    },
+    {
+      "name": "Malik",
+      "age": 26,
+      "occupation": "Fitness Trainer",
+      "origin": "Jamaica",
+      "currentLocation": "Kingston",
+      "languageSkills": {
+        "spoken": "Fluent English",
+        "reading": "Intermediate"
+      },
+      "description": "Malik, a 26-year-old fitness trainer from Jamaica, currently helping others stay fit in Kingston. Fluent in English with intermediate reading skills."
+    },
+    {
+      "name": "Hana",
+      "age": 29,
+      "occupation": "Graphic Designer",
+      "origin": "South Korea",
+      "currentLocation": "Busan",
+      "languageSkills": {
+        "spoken": "Fluent Korean, English",
+        "reading": "Intermediate"
+      },
+      "description": "Hana, a 29-year-old graphic designer from South Korea, currently creating visual delights in Busan. Fluent in Korean and English with intermediate reading skills."
+    },
+    {
+      "name": "Antonio",
+      "age": 44,
+      "occupation": "Chef",
+      "origin": "Italy",
+      "currentLocation": "Rome",
+      "languageSkills": {
+        "spoken": "Fluent Italian, English",
+        "reading": "Advanced"
+      },
+      "description": "Antonio, a 44-year-old chef from Italy, currently tantalizing taste buds in Rome. Fluent in Italian and English with advanced reading skills."
+    },
+    {
+      "name": "Sara",
+      "age": 31,
+      "occupation": "Human Resources Manager",
+      "origin": "Lebanon",
+      "currentLocation": "Beirut",
+      "languageSkills": {
+        "spoken": "Fluent Arabic, English, French",
+        "reading": "Advanced"
+      },
+      "description": "Sara, a 31-year-old human resources manager from Lebanon, currently managing resources in Beirut. Fluent in Arabic, English, and French with advanced reading skills."
+    },
+    {
+      "name": "Mateo",
+      "age": 34,
+      "occupation": "Public Relations Specialist",
+      "origin": "Argentina",
+      "currentLocation": "Buenos Aires",
+      "languageSkills": {
+        "spoken": "Fluent Spanish, English",
+        "reading": "Intermediate"
+      },
+      "description": "Mateo, a 34-year-old public relations specialist from Argentina, currently handling public relations in Buenos Aires. Fluent in Spanish and English with intermediate reading skills."
+    },
+    {
+      "name": "Nadia",
+      "age": 27,
+      "occupation": "Software Developer",
+      "origin": "Russia",
+      "currentLocation": "St. Petersburg",
+      "languageSkills": {
+        "spoken": "Fluent Russian, English",
+        "reading": "Intermediate"
+      },
+      "description": "Nadia, a 27-year-old software developer from Russia, currently coding in St. Petersburg. Fluent in Russian and English with intermediate reading skills."
+    },
+    {
+      "name": "Zane",
+      "age": 38,
+      "occupation": "Entrepreneur",
+      "origin": "New Zealand",
+      "currentLocation": "Auckland",
+      "languageSkills": {
+        "spoken": "Fluent English",
+        "reading": "Intermediate"
+      },
+      "description": "Zane, a 38-year-old entrepreneur from New Zealand, currently innovating in Auckland. Fluent in English with intermediate reading skills."
+    },
+    {
+      "name": "Fatima",
+      "age": 30,
+      "occupation": "Educator",
+      "origin": "Saudi Arabia",
+      "currentLocation": "Jeddah",
+      "languageSkills": {
+        "spoken": "Fluent Arabic, English",
+        "reading": "Intermediate"
+      },
+      "description": "Fatima, a 30-year-old educator from Saudi Arabia, currently shaping minds in Jeddah. Fluent in Arabic and English with intermediate reading skills."
+    },
+    {
+      "name": "Miguel",
+      "age": 42,
+      "occupation": "Financial Planner",
+      "origin": "Spain",
+      "currentLocation": "Madrid",
+      "languageSkills": {
+        "spoken": "Fluent Spanish, English",
+        "reading": "Advanced"
+      },
+      "description": "Miguel, a 42-year-old financial planner from Spain, currently planning finances in Madrid. Fluent in Spanish and English with advanced reading skills."
+    },
+    {
+      "name": "Anika",
+      "age": 29,
+      "occupation": "Photographer",
+      "origin": "Germany",
+      "currentLocation": "Berlin",
+      "languageSkills": {
+        "spoken": "Fluent German, English",
+        "reading": "Intermediate"
+      },
+      "description": "Anika, a 29-year-old photographer from Germany, currently capturing moments in Berlin. Fluent in German and English with intermediate reading skills."
+    },
+    {
+      "name": "Yusuf",
+      "age": 33,
+      "occupation": "Lawyer",
+      "origin": "Nigeria",
+      "currentLocation": "Lagos",
+      "languageSkills": {
+        "spoken": "Fluent Yoruba, English",
+        "reading": "Advanced"
+      },
+      "description": "Yusuf, a 33-year-old lawyer from Nigeria, currently practicing law in Lagos. Fluent in Yoruba and English with advanced reading skills."
+    }
+  ]
+}
